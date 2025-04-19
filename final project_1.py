@@ -1,3 +1,6 @@
+#salam ostad man task 1 va 2 ro kamel anjam dadam
+#ye ghesmatayi az task3 k3 baraye status gereftam bod motovaje nashodam chejoriye
+#lotffan rahnamayi mikonid?
 #_____TASK1_______
 #*******************************************
 #*************REAL WORLD********************
