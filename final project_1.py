@@ -1,6 +1,23 @@
 #salam ostad man task 1 va 2 ro kamel anjam dadam
 #ye ghesmatayi az task3 k3 baraye status gereftam bod motovaje nashodam chejoriye
 #lotffan rahnamayi mikonid?
+'''
+
+
+APM:
+
+
+
+Salam arz shod negaran nabashid jalase dovom harf miznim rajebesh
+Daryaft shod
+
+'''
+
+
+
+
+
+
 #_____TASK1_______
 #*******************************************
 #*************REAL WORLD********************
